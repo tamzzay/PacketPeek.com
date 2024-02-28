@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://images.spiceworks.com/wp-content/uploads/2022/05/05125741/padlock-red-open-on-electric-circuits-network-dark-red-background-depicting-packet-sniffing.jpg");
+    background-size: cover;
+    color: deeppink;
+  }
+
+  h2{
+    color: blue;
+  }
+  h1{
+    color:crimson;
+    position: absolute;
+    left: 90px;
+    margin-top: -3.5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  header {
+    background-color:aquamarine;
+    color: green;
+    padding: 10px;
+    position: relative;
+  }
+  .logo-round img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+  }
+  nav {
+    background-color:aquamarine;
+   color: black;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 10px;
+
+  }
+.button{
+    color: darkmagenta;
+    padding: 10px;
+}
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    border-bottom: 0cm;
+  }
+  
